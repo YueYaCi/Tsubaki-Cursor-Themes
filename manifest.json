@@ -2,12 +2,20 @@
   "version": "1.0",
   "themes": [
     {
-      "id": "kafu-v1",
+      "id": "KAFU",
       "name": "可不",
       "author": "乱涂乱画ben",
       "description": "【rired1】(bilibili)约稿并由【乱涂乱画ben】(bilibili)分享",
-      "downloadUrl": "https://github.com/YueYaCi/Tsubaki-Cursor-Themes/releases/download/v1.0/kafu.zip",
-      "sha256": "可选"
+      "downloadUrl": "https://cdn.jsdelivr.net/gh/YueYaCi/Tsubaki-Cursor-Themes@main/themes/KAFU.zip",
+      "sha256": ""
+    },
+    {
+      "id": "kaf-v2",
+      "name": "花谱",
+      "author": "...",
+      "description": "...",
+      "downloadUrl": "https://cdn.jsdelivr.net/gh/YueYaCi/Tsubaki-Cursor-Themes@main/themes/kaf-v2.zip",
+      "sha256": ""
     }
   ]
 }
