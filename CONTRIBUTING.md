@@ -79,17 +79,19 @@
 
 ## 第四步：提交投稿
 
-**方式 A：通过 GitHub Pull Request（推荐，会 Git 的用户）**
+请先把光标文件打包成 `.zip` 
+
+**方式 A：通过 GitHub Pull Request**
 
 - Fork 本仓库
-- 把你的主题文件夹放进 `themes/`
+- 把你的主题文件压缩包放进 `themes/`
 - 提交 PR，标题写：`添加主题：主题名`
 - PR 描述里必须写清楚：
   - 你是原创作者还是搬运？
   - 如果是搬运，原作者是否允许分发？
   - 来源链接是什么？
 
-**方式 B：通过 GitHub Issue（不会 Git 的用户）**
+**方式 B：通过 GitHub Issue**
 
 - 发一个新 Issue，标题写：`[投稿] 主题名`
 - 把 `theme.json` 的内容贴在正文里
