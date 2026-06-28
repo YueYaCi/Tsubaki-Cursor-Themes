@@ -1,30 +1,13 @@
-# Windows 系统文件
+# 系统文件
 Thumbs.db
-ehthumbs.db
-Desktop.ini
-$RECYCLE.BIN/
-
-# macOS 系统文件
 .DS_Store
-.AppleDouble
-.LSOverride
-
-# 编辑器/IDE
-.vscode/
-.idea/
-*.suo
-*.user
-
-# 临时文件
 *.tmp
-*.temp
 *.log
 
-# 构建产物（可能后续写自动打包脚本）
-build/
-dist/
-*.zip
-*.tar.gz
+# 编辑器
+.vscode/
+.idea/
 
-# 下载缓存（软件本体下载的缓存不应该进仓库）
+# 构建/下载缓存（软件本体产生的，不进仓库）
 .cache/
+dist/
