@@ -6,5 +6,4 @@ Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction...
 
-【注意：本许可证仅适用于本仓库中的代码、JSON配置文件、文档和脚本。
-光标文件(.cur/.ani)及预览图的版权归原作者所有，见仓库内 NOTICE 文件。】
+【注意：本许可证仅适用于 manifest.json、CONTRIBUTING.md、README.md 等配置文件和文档。themes/ 目录下的 .zip 压缩包内的光标文件(.cur/.ani)及预览图版权归原作者所有，详见 NOTICE 文件。】
